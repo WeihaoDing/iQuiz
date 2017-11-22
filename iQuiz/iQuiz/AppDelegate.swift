@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  iQuiz
 //
-//  Created by gmhding on 2017/11/7.
-//  Copyright © 2017年 gmhding. All rights reserved.
+//  Created by gmhding on 11/21/17.
+//  Copyright © 2017 gmhding. All rights reserved.
 //
 
 import UIKit
